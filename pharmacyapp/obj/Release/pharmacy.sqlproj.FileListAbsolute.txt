@@ -1,0 +1,6 @@
+C:\Users\michael\source\repos\pharmacyapp\pharmacyapp\bin\Release\pharmacy.dacpac
+C:\Users\michael\source\repos\pharmacyapp\pharmacyapp\bin\Release\pharmacyapp.dll
+C:\Users\michael\source\repos\pharmacyapp\pharmacyapp\bin\Release\pharmacyapp.pdb
+C:\Users\michael\source\repos\pharmacyapp\pharmacyapp\obj\Release\pharmacy.sqlproj.AssemblyReference.cache
+C:\Users\michael\source\repos\pharmacyapp\pharmacyapp\obj\Release\pharmacyapp.dll
+C:\Users\michael\source\repos\pharmacyapp\pharmacyapp\obj\Release\pharmacyapp.pdb
